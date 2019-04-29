@@ -1,0 +1,17 @@
+{
+  "name": "odhill-repo",
+  "version": "1.0.0",
+  "description": "project for oddhill frontend assigment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orfeika",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
